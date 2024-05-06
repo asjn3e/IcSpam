@@ -1,0 +1,17 @@
+{
+  "canisters": {
+    "spam_backend": {
+      "candid": "src/spam_backend/spam_backend.did",
+      "package": "spam_backend",
+      "type": "rust"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
