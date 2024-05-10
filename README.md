@@ -3,10 +3,13 @@
 
 ### Ledger_canister: aphhe-eaaaa-aaaal-qi74q-cai , minter_canister : euw6r-3iaaa-aaaal-ajdva-cai
 
-IcSpam token was designed for the purpose of stress checking by creating a large number of transactions on IC (Internet computer).
-[icspam.lol](https://icspam.lol)
+The IcSpam token, designed for stress-testing the Internet Computer by creating large number of transactions. Visit https://icspam.lol to get some ICSPAM.
+
+By calling the mint() function on the minter canister, 10 ICSPAM tokens are minted and transferred to the provided principal. The more transactions, the more tokens.
+
+Keep this token thriving by donating cycles to the ledger canister via https://k25co-pqaaa-aaaab-aaakq-cai.ic0.app/.
 
 
-- By calling mint() function on the minting canister 10 ICSPAM tokens will be minted and transfered to the provided principal.
-- Feel free to call the mint function as much as possible, the more transactions the more tokens.
-- Keep this token alive by donating cycles to the ledger canister through [https://k25co-pqaaa-aaaab-aaakq-cai.ic0.app/](https://k25co-pqaaa-aaaab-aaakq-cai.ic0.app/)
+
+
+
