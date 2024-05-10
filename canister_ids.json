@@ -1,0 +1,11 @@
+{
+  "spam_ledger_canister": {
+    "ic": "aphhe-eaaaa-aaaal-qi74q-cai"
+  },
+  "spam_index_canister": {
+    "ic": "vdt54-syaaa-aaaap-qhiqq-cai"
+  },
+  "minter": {
+    "ic": "euw6r-3iaaa-aaaal-ajdva-cai"
+  }
+}

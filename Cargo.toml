@@ -1,5 +1,0 @@
-[workspace]
-members = [
-    "src/spam_backend"
-]
-resolver = "2"
