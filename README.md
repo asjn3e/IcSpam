@@ -3,7 +3,7 @@
 
 ### Ledger_canister: aphhe-eaaaa-aaaal-qi74q-cai , minter_canister : euw6r-3iaaa-aaaal-ajdva-cai
 
-IcSpam tokens was designed for with the purpose of stress checking by creating a large number of transactions on IC (Internet computer).
+IcSpam token was designed for the purpose of stress checking by creating a large number of transactions on IC (Internet computer).
 [icspam.lol](https://icspam.lol)
 
 
